@@ -1,0 +1,12 @@
+Ex-2: Diife
+Source code:
+https://onlinegdb.com/Y6oDX_r7z
+-------------------------------------------------------------------
+Ex-3: Sha
+source code:
+https://onlinegdb.com/GHJYVX-pyT
+------------------------------------------------------------------
+Ex-4:Digital Signature
+source code:
+https://onlinegdb.com/QtjjGiCoO
+-------------------------------------------------------------------
